@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas Vindas ao meu perfil 💙
 
-<!--
-**JulianaBN/JulianaBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Juliana Branzani de Nobrega
+- Sou estudante do [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem de Javascript
+- Utilizo esse esse espaço paraminha organização e compartilhamento dos meu projetos desenvolvidos
+  
+- ### Você entrar em contato comigo 📫
 
-Here are some ideas to get you started:
+- 00001119853035sp@al.educacao.sp.gov.br
+  
+- @julianabranzany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media1.tenor.com/m/ITL556MnC1wAAAAC/coquette-hampter.gif" alt="Coquette Hampter GIF"/>![image](https://github.com/user-attachments/assets/7a604026-5180-4ba1-ab71-6318946c3ad7)
+
+
+
